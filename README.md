@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello there, I'm George 🧐
 
-<!--
-**GiorgosKoutsikos/GiorgosKoutsikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+🌐 Aspiring **Web & AI Developer**  
+🚀 Currently building strong foundations in web development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- I am a **CS student** with a strong interest in **Web Development & Artificial Intelligence**
+- I enjoy learning by **building small projects** and improving step by step
+- My goal is to combine **modern web applications** with **AI-powered features**
+
+---
+
+## 🛠️ Technologies & Tools
+**Currently learning**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+- 🧠 Programming fundamentals
+
+---
+
+## 🎯 Goals
+- Become a **Full Stack Developer**
+
