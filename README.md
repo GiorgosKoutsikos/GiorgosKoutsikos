@@ -19,8 +19,5 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 - 🧠 Programming fundamentals
 
----
 
-## 🎯 Goals
-- Become a **Full Stack Developer**
 
