@@ -1,8 +1,8 @@
-
 <p align="center">
   <img width="480" height="269" alt="giphy" src="https://github.com/user-attachments/assets/9ce74b1d-7493-4c81-beb0-6c2d8d22b666" />
 </p>
 
+<h1 align="center">Hi 👋, I'm George</h1>
 
 <p align="center">
   <b>Focused on building reliable software, robust backend systems, and clean architecture.</b>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 **George, Here** — a Computer Science & Telecommunications student.
 
