@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/d660d10e-2b14-4249-a17b-2217c7e139a0" width="100%" alt="Starry Night Banner">
+</p>
+
+
+<p align="center">
   <b>Focused on building reliable software, robust backend systems, and clean architecture.</b>
 </p>
 
