@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d660d10e-2b14-4249-a17b-2217c7e139a0" width="100%" alt="Starry Night Banner">
+  <img width="480" height="269" alt="giphy" src="https://github.com/user-attachments/assets/9ce74b1d-7493-4c81-beb0-6c2d8d22b666" />
 </p>
 
 
