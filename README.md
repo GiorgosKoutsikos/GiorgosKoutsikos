@@ -18,6 +18,8 @@ My journey in tech began in the world of web development. It was a foundational 
 
 Engaging with full-stack projects, I realized that my core passion was not in interfaces, but in software design, intricate logic, and system-level problems. **This realization led me to make a deliberate pivot in my career path, fully transitioning my focus from web development toward core Software Engineering.**
 
-Instead of just constructing interfaces, I am now passionate about designing how complex systems work under the hood. I am actively expanding my knowledge in fundamental computer science principles, algorithm optimization, and the core methodologies of software architecture.
+Instead of just constructing interfaces, I am now passionate about designing how complex systems work under the hood, while expanding my knowledge in computer science fundamentals and algorithm optimization.
+
+Currently, I am diving deep into **Python**, focusing on advanced concepts, internal mechanics, and backend engineering principles.
 
 My simple goal is to continuously evolve as an engineer, designing reliable, well-structured software that is efficient and built to last.
