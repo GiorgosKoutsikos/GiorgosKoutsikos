@@ -14,9 +14,9 @@
 
 **George, Here** — a Computer Science & Telecommunications student.
 
-My journey in tech began in the world of web development. It was a foundational experience that allowed me to build functional applications from the ground up and gain a solid understanding of user-facing requirements. Over time, however, as I delved deeper into the underlying mechanics of how these applications were powered, my focus began to shift.
+My journey in tech began with web development, building functional applications from scratch and understanding user-facing requirements. However, as I delved deeper into how these applications worked under the hood, my focus naturally shifted.
 
-Engaging with full-stack projects, I realized that my core passion was not in interfaces, but in software design, intricate logic, and system-level problems. **This realization led me to make a deliberate pivot in my career path, fully transitioning my focus from web development toward core Software Engineering.**
+Engaging with projects, I realized that my core passion was not in interfaces, but in software design, intricate logic, and system-level problems. **This realization inspired me to focus on core Software Engineering and system fundamentals, while remaining open to tackling complex challenges across different technical domains and emerging technologies.**
 
 Instead of just constructing interfaces, I am now passionate about designing how complex systems work under the hood, while expanding my knowledge in computer science fundamentals and algorithm optimization.
 
