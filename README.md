@@ -12,22 +12,6 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-**George, Here** — a Computer Science & Telecommunications student.
-
-My journey in tech began with web development, building functional applications from scratch and understanding user-facing requirements. However, as I delved deeper into how these applications worked under the hood, my focus naturally shifted.
-
-Engaging with projects, I realized that my core passion was not in interfaces, but in software design, intricate logic, and system-level problems. **This realization inspired me to focus on core Software Engineering and system fundamentals, while remaining open to tackling complex challenges across different technical domains and emerging technologies.**
-
-Instead of just constructing interfaces, I am now passionate about designing how complex systems work under the hood, while expanding my knowledge in computer science fundamentals and algorithm optimization.
-
-Currently, I am diving deep into **Python**, focusing on advanced concepts, internal mechanics, and backend engineering principles.
-
-My simple goal is to continuously evolve as an engineer, designing reliable, well-structured software that is efficient and built to last.
-
-
-
-
-
 George here — a **Computer Science & Telecommunications** student.
 
 My journey in tech began with **web development**, building applications from scratch and understanding user-facing requirements. As I delved deeper into these projects, I became equally fascinated by what happens under the hood—sparking my shift toward **core software engineering**, **system architecture**, and **algorithm optimization**.
