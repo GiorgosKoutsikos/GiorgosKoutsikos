@@ -23,3 +23,17 @@ Instead of just constructing interfaces, I am now passionate about designing how
 Currently, I am diving deep into **Python**, focusing on advanced concepts, internal mechanics, and backend engineering principles.
 
 My simple goal is to continuously evolve as an engineer, designing reliable, well-structured software that is efficient and built to last.
+
+
+
+
+
+George here — a **Computer Science & Telecommunications** student.
+
+My journey in tech began with **web development**, building applications from scratch and understanding user-facing requirements. As I delved deeper into these projects, I became equally fascinated by what happens under the hood—sparking my shift toward **core software engineering**, **system architecture**, and **algorithm optimization**.
+
+While my focus has expanded deeper into systems and backend logic, my background in web development remains an essential part of my foundation. I genuinely enjoy building modern web applications, and that experience gives me a valuable **end-to-end perspective** across the entire stack.
+
+Currently, I am diving deep into **Python**, focusing on advanced concepts, internal mechanics, and backend engineering principles.
+
+> **My goal is simple:** To continuously evolve as an engineer, designing reliable, well-structured software that is efficient, scalable, and built to last.
