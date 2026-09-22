@@ -20,4 +20,4 @@ While my focus has expanded deeper into systems and backend logic, my background
 
 Currently, I am diving deep into **Python**, focusing on advanced concepts, internal mechanics, and backend engineering principles.
 
-> **My goal is simple:** To continuously evolve as an engineer, designing reliable, well-structured software that is efficient, scalable, and built to last.
+
